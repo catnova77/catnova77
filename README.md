@@ -8,4 +8,6 @@ mostly:
 - automation prototypes
 - weird but useful notes
 
+current front door: [catnova77.github.io](https://catnova77.github.io/)
+
 quiet account, but I do ship things.
